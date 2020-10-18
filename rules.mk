@@ -54,3 +54,5 @@ COMMAND_ENABLE ?= no    # Commands for debug and configuration
 LTO_ENABLE = yes
 SPACE_CADET_ENABLE = no
 GRAVE_ESC_ENABLE = no
+
+USER_NAME := manna-harbour_miryoku
